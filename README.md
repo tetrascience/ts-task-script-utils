@@ -5,11 +5,18 @@
 Utility functions for Tetra Task Scripts
 
 - [Installation](#installation)
+- [Usage](#usage)
 - [Test](#test)
 
 ## Installation
 
 `pip install ts-task-script-utils`
+
+## Usage
+
+`from task_script_utils.is_number import isnumber`
+
+`print(isnumber('a'))`
 
 ## Test
 
