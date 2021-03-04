@@ -3,4 +3,5 @@
 .coverage
 htmlcov/
 *.egg-info/
+build/
 dist/

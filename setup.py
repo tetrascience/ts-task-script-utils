@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 NAME = "ts-task-script-utils"
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
