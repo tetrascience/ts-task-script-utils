@@ -5,4 +5,4 @@ install:
   - pip install pipenv
   - pipenv install --dev
 script:
-  - pytest --cov=task_script_utils --cov-branch
+  - pipenv run python -m pytest --cov=task_script_utils --cov-branch
